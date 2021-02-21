@@ -2,3 +2,9 @@ scrapy
 scrapy-selenium
 bs4
 ipython
+
+# analysis / ML
+category_encoders
+seaborn
+pandas
+scikit-learn

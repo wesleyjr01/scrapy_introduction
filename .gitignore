@@ -9,8 +9,6 @@ __pycache__/
 # vscode
 .vscode/
 
-*.json
-
 # Distribution / packaging
 .Python
 build/
